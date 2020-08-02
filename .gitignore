@@ -1,0 +1,5 @@
+# JSON jar
+*.jar
+
+# Class files
+*.class
